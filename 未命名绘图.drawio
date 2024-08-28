@@ -4,6 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3WwESAYEbUexxhGEgflD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-1" target="3WwESAYEbUexxhGEgflD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-1" value="子账号手动关闭会话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-2" target="3WwESAYEbUexxhGEgflD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-2" value="会话自动关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-3" target="3WwESAYEbUexxhGEgflD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-3" value="系统自动发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-4" target="3WwESAYEbUexxhGEgflD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-4" value="子账号手动发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-5" target="3WwESAYEbUexxhGEgflD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-5" value="buyer手动发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-6" target="3WwESAYEbUexxhGEgflD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-6" value="chat-coreapi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-7" value="chat-&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22chat-coreapi%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%22300%22%20width%3D%2290%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;sellerservice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WwESAYEbUexxhGEgflD-15" target="3WwESAYEbUexxhGEgflD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3WwESAYEbUexxhGEgflD-15" value="chat-workbenchapi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
